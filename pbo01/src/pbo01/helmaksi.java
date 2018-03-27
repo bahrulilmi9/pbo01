@@ -14,5 +14,23 @@ public class helmaksi {
         helm aji = new helm();
         helm angga = new helm();
         helm ilmi = new helm();
-    }
+        
+        aji.jenis="Full Face";
+        aji.warna="Hitam";
+        aji.ukuran="L";
+        aji.merk="GM";
+        aji.kaca="Pelangi";
+        
+        angga.jenis="Half Face";
+        angga.warna="Merah";
+        angga.ukuran="M";
+        angga.merk="NHK";
+        angga.kaca="Transparant";
+        
+        ilmi.jenis="Half Face";
+        ilmi.warna="Biru";
+        ilmi.ukuran="S";
+        ilmi.merk="INK";
+        ilmi.kaca="Gelap";
+  }
 }
